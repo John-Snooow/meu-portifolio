@@ -426,7 +426,7 @@ footer {
     text-align: center;
   }
 
-  .home-content h1m,
+  .home-content h1,
   .about-content h1 {
     font-size: 2.2rem;
     font-weight: 700;
@@ -458,7 +458,7 @@ footer {
   .nav {
     display: block;
   }
-  .nav-resposive, .nav-resposive a{
+  .nav-responsive, .nav-responsive a{
     display: none;
   }
   .home, .about{
