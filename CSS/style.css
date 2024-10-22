@@ -160,7 +160,7 @@ span {
 .services-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 .services-box {
   display: flex;
@@ -294,7 +294,7 @@ form textarea {
   color: var(--text-color);
   background-color: var(--bg-color-02);
   border-radius: 0.5rem;
-  margin: 0.4rem;
+  margin: 0.4rem 0;
 }
 
 form textarea {
